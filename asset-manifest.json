@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thinkcode/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/thinkcode/static/js/main.17ee7820.chunk.js",
+    "main.js.map": "/thinkcode/static/js/main.17ee7820.chunk.js.map",
+    "runtime-main.js": "/thinkcode/static/js/runtime-main.cdd97a2a.js",
+    "runtime-main.js.map": "/thinkcode/static/js/runtime-main.cdd97a2a.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/thinkcode/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.57e5f1ae.chunk.js": "/thinkcode/static/js/2.57e5f1ae.chunk.js",
+    "static/js/2.57e5f1ae.chunk.js.map": "/thinkcode/static/js/2.57e5f1ae.chunk.js.map",
+    "static/js/3.9074aab1.chunk.js": "/thinkcode/static/js/3.9074aab1.chunk.js",
+    "static/js/3.9074aab1.chunk.js.map": "/thinkcode/static/js/3.9074aab1.chunk.js.map",
+    "index.html": "/thinkcode/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/thinkcode/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/thinkcode/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.57e5f1ae.chunk.js.LICENSE.txt": "/thinkcode/static/js/2.57e5f1ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd97a2a.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.57e5f1ae.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.17ee7820.chunk.js"
+  ]
+}

@@ -1,0 +1,25 @@
+.dropdownthink-menu{
+    width: 200px;
+    position: absolute;
+    top:  80px;
+    list-style: none;
+    text-align: start;
+}
+.dropdownthink-menu li{
+    background: #f7f4f0;
+    cursor: pointer;
+}
+.dropdownthink-menu li:hover{
+    background: #5cabff;
+}
+.dropdownthink-menu.clicked{
+    display: none;
+}
+.dropdownthink-link{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #fff;
+    padding: 16px;
+}

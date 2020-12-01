@@ -1,0 +1,8 @@
+.container-pricing {
+    background: white;
+    border: 1px solid white;
+    z-index: inherit;
+}
+.card-pricing {
+    color: white;
+}

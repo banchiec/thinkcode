@@ -1,0 +1,17 @@
+.imagensvg-infoSection {
+    padding: 0;
+    border-right: 5px;
+    width: 800px;
+
+}
+.content-infoSection {
+    margin-top: 100px;
+
+}
+.text-infoSection {
+    margin-top: 50px;
+    color: whitesmoke;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}

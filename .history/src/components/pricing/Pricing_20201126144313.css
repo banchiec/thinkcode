@@ -1,0 +1,12 @@
+.container-pricing {
+    background-color: white;
+    border: 1px solid white;
+    width: 15rem;
+    /* z-index: -1; */
+}
+.card-pricing {
+    align-content: center;
+    padding: auto;
+    background-color: violet;
+    color: white;
+}

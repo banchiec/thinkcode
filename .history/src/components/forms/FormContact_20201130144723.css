@@ -1,0 +1,10 @@
+.container-form {
+    border:1px solid green;
+    /* margin: 5rem; */
+    margin-top: 5rem;
+    width: 20rem;
+    margin-bottom: 8rem;
+    padding: 2rem;
+    
+    /* margin-left: 10rem; */
+}

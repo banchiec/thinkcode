@@ -1,0 +1,28 @@
+.container-footer {
+    border: 0;
+    /* padding: 0; */
+    /* border: 1px solid green; */
+    height: auto; 
+    background: #e4f1f7;
+}
+.card-footer {
+    padding-top: 10px;
+    padding-bottom: 22px;
+    border: 0;
+    color: #282a28;
+    background: #e4f1f7;
+}
+.text-card-footer  {
+    padding: 0;
+    margin-top: 1.5rem;
+    font-size: small;
+    text-align: start;
+}
+.title-card-footer {
+    margin-top: 1rem;
+    text-align: left;
+}
+.pin-ic{
+    margin: 8px
+    
+}

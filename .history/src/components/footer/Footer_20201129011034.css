@@ -1,0 +1,17 @@
+.container-footer {
+    /* border: 1px solid green; */
+    height: 200rem; 
+    background: #e4f1f7;
+}
+.card-footer {
+    border: 0;
+    color: #282a28;
+    background: #e4f1f7;
+}
+.text-card-footer  {
+    font-size: xx-small;
+    text-align: start;
+}
+.title-card-footer {
+    text-align: left;
+}

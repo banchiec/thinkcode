@@ -1,0 +1,55 @@
+.container-pricing {
+    /* background-color: whitesmoke; */
+    /* border: 1px solid white; */
+    /* height:  800px; */
+    background: linear-gradient(90deg, rgb(76, 80, 88) 100%, rgb(66, 66 66) 0%);
+    /* z-index: -1; */
+}
+.container-card{
+    padding-top: 4rem;
+    align-content: center;
+    padding: auto;
+    text-align: start;
+    /* height: 600px; */
+    /* background-color: violet; */
+    /* color: transparent; */
+}
+.card-pricing {
+    /* width: 34rem; */
+    margin-left: 5rem;
+    background: #deca30;
+    /* background: #3b4454; */
+    /* background: linear-gradient(90deg, rgb(224, 242, 241) 0%, rgb(255, 255, 255) 100%); */
+    margin-right: 3rem;
+    height: 50rem;
+}
+.card-button {
+    /* margin-top: 3rem; */
+    /* margin-left: 13rem; */
+    position: absolute;
+    right: 18px;
+    bottom: 18px;
+    color: whitesmoke;
+}
+.text-card {
+    /* padding-top: 1.5rem; */
+    padding-left: 3rem;
+    padding-right: 2.5rem;
+    color: #282c34;
+    font-size: 20px;
+}
+.image-pricing {
+    height: 15rem;
+    width: 80%;
+    align-self: center;
+}
+.title-card {
+    padding-top: 1rem;
+    padding-left: 3rem;
+    color: #282c34;
+    font-size: 36px;
+}
+.text-propuesta {
+    color: whitesmoke;
+    font-size: 3rem;
+}

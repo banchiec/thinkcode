@@ -1,0 +1,27 @@
+.container-formContact {
+    border:1px solid green;
+    /* background:  ; */
+}
+.container-form {
+    border:1px solid green;
+    /* margin: 5rem; */
+    margin-top: 5rem;
+    margin-bottom: 8rem;
+    padding: 4rem;
+    
+    /* margin-left: 10rem; */
+}
+.text-contactanos {
+    border: 1px solid green;
+    padding: 4rem;
+    /* margin-right: 10rem ; */
+    margin-left: 2rem;
+    margin-top: 5rem;
+    font-size: 4rem;
+    
+    color: #deca30;
+}
+.form-inline {
+    margin-left: 6rem;
+
+}

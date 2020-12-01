@@ -1,0 +1,17 @@
+.container-pricing {
+    background-color: whitesmoke;
+    /* border: 1px solid white; */
+    height:  600px;
+    /* z-index: -1; */
+}
+.container-card{
+    padding-top: 4rem;
+    align-content: center;
+    padding: auto;
+    /* height: 600px; */
+    /* background-color: violet; */
+    /* color: transparent; */
+}
+.card-pricing {
+    margin-left: 2rem;
+}

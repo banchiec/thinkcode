@@ -1,0 +1,21 @@
+.imagensvg-infoSection {
+    padding: 0;
+    border-right: 5px;
+    width: 400px;
+
+}
+.content-infoSection {
+    border: 0;
+    padding: 0;
+    margin-top: 100px;
+    /* border: 1px solid rebeccapurple; */
+}
+.text-infoSection {
+    border: 0;
+    padding: 0;
+    /* border: 1px solid whitesmoke; */
+    color: whitesmoke;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}

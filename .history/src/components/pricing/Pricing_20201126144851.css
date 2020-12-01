@@ -1,0 +1,13 @@
+.container-pricing {
+    background-color: blue;
+    border: 1px solid white;
+    height:  100%;
+    /* z-index: -1; */
+}
+.card-pricing {
+    align-content: center;
+    padding: auto;
+    /* height: 600px; */
+    background-color: violet;
+    color: white;
+}

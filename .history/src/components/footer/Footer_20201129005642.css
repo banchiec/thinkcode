@@ -1,0 +1,10 @@
+.container-footer {
+    height: 20rem; 
+    background: #e4f1f7;
+}
+.card-footer {
+    color: #282a28;
+}
+.text-card-footer , .title-card-footer {
+    text-align: start;
+}

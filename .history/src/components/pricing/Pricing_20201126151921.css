@@ -1,0 +1,22 @@
+.container-pricing {
+    /* background-color: whitesmoke; */
+    /* border: 1px solid white; */
+    height:  800px;
+    background: linear-gradient(90deg, rgb(76, 80, 88) 100%, rgb(66, 66 66) 0%);
+    /* z-index: -1; */
+}
+.container-card{
+    padding-top: 4rem;
+    align-content: center;
+    padding: auto;
+    /* height: 600px; */
+    /* background-color: violet; */
+    /* color: transparent; */
+}
+.card-pricing {
+    margin-left: 5rem;
+    background: transparent;
+    /* background: linear-gradient(90deg, rgb(224, 242, 241) 0%, rgb(255, 255, 255) 100%); */
+    margin-right: 3rem;
+    height: 30rem;
+}

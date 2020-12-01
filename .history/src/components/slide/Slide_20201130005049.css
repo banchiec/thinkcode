@@ -1,0 +1,10 @@
+.container-slider {
+    margin-top: 5rem;
+    border-top: 5rem;
+}
+.d-block {
+    width: 40rem;
+    height: 34rem;
+    border:1px solid green;
+
+}

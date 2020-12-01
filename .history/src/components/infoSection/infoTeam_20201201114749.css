@@ -1,0 +1,30 @@
+.text-title{
+    font-size: 3rem;
+    text-align: center;
+    /* margin-left: 18rem; */
+    color: #bc4f88;
+    
+}
+.container-info-team {
+    border: 1px solid green;
+    height: 40rem;
+}
+.card_info_team {
+    margin-top: 8rem;
+
+    color: whitesmoke;
+    background: transparent;
+    text-align: center;
+
+}
+.image-info-team {
+    position: relative;
+    width: 12rem;
+    margin-left: 4.5rem;
+}
+
+@media screen and (max-width: 960px){
+    .text-propuesta{
+        /* margin-top: 12rem; */
+    }
+}

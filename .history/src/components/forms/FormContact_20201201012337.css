@@ -1,0 +1,67 @@
+.container-formContact {
+
+    border-top: 1px solid whitesmoke;
+    /* background:  ; */
+
+}
+.container-form {
+    /* border:1px solid green; */
+    /* margin: 5rem; */
+    margin-top: 5rem;
+    margin-bottom: 8rem;
+    padding: 4rem;
+    
+    /* margin-left: 10rem; */
+}
+.text-contactanos h1 {
+    /* border: 1px solid green; */
+    padding: 4rem;
+    /* margin-right: 10rem ; */
+    margin-left: 8rem;
+    margin-top: 5rem;
+    font-size: 4rem;
+    color: #deca30;
+    
+    
+}
+.form-inline {
+    margin-left: 12rem;
+}
+.form-inline-check {
+    /* border: 1px solid green; */
+    margin-top: .5rem;
+    margin-left: 3rem;
+    
+
+}
+.check-conditions {
+    padding: 0;
+    color: whitesmoke;
+
+}
+@media screen and (max-width: 960px){
+    .text-contactanos{
+        /* margin-top: 2rem; */
+        margin-left: 3rem;
+        padding: 0px;
+        font-size: 2rem;
+    }
+    .container-form {
+        margin-left: 0;
+    }
+    .form-inline {
+        margin-left: 0;
+    }
+    .container-form {
+        margin: 0;
+    }
+    .imput-email-form {
+        margin-left: 3rem;
+    }
+    .button-form-contact {
+        margin-left: 3rem;
+    }
+    .form-inline-check {
+        margin-left: 4.3rem;
+    }
+}

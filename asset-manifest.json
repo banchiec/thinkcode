@@ -1,24 +1,36 @@
 {
   "files": {
-    "main.css": "/thinkcode/static/css/main.a7f73b0c.chunk.css",
-    "main.js": "/thinkcode/static/js/main.6a51b3e9.chunk.js",
-    "main.js.map": "/thinkcode/static/js/main.6a51b3e9.chunk.js.map",
-    "runtime-main.js": "/thinkcode/static/js/runtime-main.af6a0b3a.js",
-    "runtime-main.js.map": "/thinkcode/static/js/runtime-main.af6a0b3a.js.map",
-    "static/js/2.198bcc94.chunk.js": "/thinkcode/static/js/2.198bcc94.chunk.js",
-    "static/js/2.198bcc94.chunk.js.map": "/thinkcode/static/js/2.198bcc94.chunk.js.map",
-    "static/js/3.4926443c.chunk.js": "/thinkcode/static/js/3.4926443c.chunk.js",
-    "static/js/3.4926443c.chunk.js.map": "/thinkcode/static/js/3.4926443c.chunk.js.map",
+    "main.css": "/thinkcode/static/css/main.8a99393d.chunk.css",
+    "main.js": "/thinkcode/static/js/main.a5a40e8f.chunk.js",
+    "main.js.map": "/thinkcode/static/js/main.a5a40e8f.chunk.js.map",
+    "runtime-main.js": "/thinkcode/static/js/runtime-main.31793ede.js",
+    "runtime-main.js.map": "/thinkcode/static/js/runtime-main.31793ede.js.map",
+    "static/css/2.524e5fe4.chunk.css": "/thinkcode/static/css/2.524e5fe4.chunk.css",
+    "static/js/2.92c95b11.chunk.js": "/thinkcode/static/js/2.92c95b11.chunk.js",
+    "static/js/2.92c95b11.chunk.js.map": "/thinkcode/static/js/2.92c95b11.chunk.js.map",
     "index.html": "/thinkcode/index.html",
-    "static/css/main.a7f73b0c.chunk.css.map": "/thinkcode/static/css/main.a7f73b0c.chunk.css.map",
-    "static/js/2.198bcc94.chunk.js.LICENSE.txt": "/thinkcode/static/js/2.198bcc94.chunk.js.LICENSE.txt",
+    "static/css/2.524e5fe4.chunk.css.map": "/thinkcode/static/css/2.524e5fe4.chunk.css.map",
+    "static/css/main.8a99393d.chunk.css.map": "/thinkcode/static/css/main.8a99393d.chunk.css.map",
+    "static/js/2.92c95b11.chunk.js.LICENSE.txt": "/thinkcode/static/js/2.92c95b11.chunk.js.LICENSE.txt",
     "static/media/index.css": "/thinkcode/static/media/CascadiaCode-Bold.6f9296ac.ttf",
-    "static/media/logo_thinkcode.8b0daee6.png": "/thinkcode/static/media/logo_thinkcode.8b0daee6.png"
+    "static/media/gregorio.7edfeacd.jpg": "/thinkcode/static/media/gregorio.7edfeacd.jpg",
+    "static/media/image_code_thinking.a2ba8868.svg": "/thinkcode/static/media/image_code_thinking.a2ba8868.svg",
+    "static/media/imagen_desarrollo_a_medida.291bedd6.svg": "/thinkcode/static/media/imagen_desarrollo_a_medida.291bedd6.svg",
+    "static/media/imagensvg3.f7859194.svg": "/thinkcode/static/media/imagensvg3.f7859194.svg",
+    "static/media/imagensvg4.2c0445ca.svg": "/thinkcode/static/media/imagensvg4.2c0445ca.svg",
+    "static/media/jjuan.c221656c.jpg": "/thinkcode/static/media/jjuan.c221656c.jpg",
+    "static/media/logo_thinkcode.8b0daee6.png": "/thinkcode/static/media/logo_thinkcode.8b0daee6.png",
+    "static/media/proyecto1.1226251a.png": "/thinkcode/static/media/proyecto1.1226251a.png",
+    "static/media/proyecto2.276f2479.jpg": "/thinkcode/static/media/proyecto2.276f2479.jpg",
+    "static/media/proyecto3.119e66cb.jpg": "/thinkcode/static/media/proyecto3.119e66cb.jpg",
+    "static/media/proyecto4.e4c9a462.jpg": "/thinkcode/static/media/proyecto4.e4c9a462.jpg",
+    "static/media/team_spirit.a23b2579.svg": "/thinkcode/static/media/team_spirit.a23b2579.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af6a0b3a.js",
-    "static/js/2.198bcc94.chunk.js",
-    "static/css/main.a7f73b0c.chunk.css",
-    "static/js/main.6a51b3e9.chunk.js"
+    "static/js/runtime-main.31793ede.js",
+    "static/css/2.524e5fe4.chunk.css",
+    "static/js/2.92c95b11.chunk.js",
+    "static/css/main.8a99393d.chunk.css",
+    "static/js/main.a5a40e8f.chunk.js"
   ]
 }
